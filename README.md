@@ -10,6 +10,6 @@
 
 | Website/Platform | Number of Challenges |
 |-------------------|----------------------|
-| PicoCTF/Cylab | 0 |
+| PicoCTF/Cylab | 13 |
 
 <p align="center"><i>Learning by breaking things (legally). 🔐</i></p>
